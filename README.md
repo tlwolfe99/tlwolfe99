@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tlwolfe99
+- 👋 Hi, I’m tlwolfe99
 - 👀 I’m interested in all things computer
 - 🌱 I’m currently collecting projects into a book to help other to learn to programming.
 - 📫 You can reach me by sendign a email.
