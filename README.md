@@ -1,6 +1,6 @@
 - 👋 Hi, I’m tlwolfe99
 - 👀 I’m interested in all things computer
-- 🌱 I’m currently collecting projects into a book to help other to learn to programming.
+- 🌱 I’m currently collecting projects into a book to help other to learn programming.
 - 📫 You can reach me by sending an email.
 
 <!---
